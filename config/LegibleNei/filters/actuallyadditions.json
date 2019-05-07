@@ -1,9 +1,8 @@
 {
 actuallyadditions:[
-    {keep:[[*colored*,*crystal*],[0]]};
-    {keep:[item,[Battery*,TeleStaff,FillingWand,GrowthRing,SuctionRing,WaterRemovalRing],[0],['{Energy:0}']]};
-    {keep:[item,[PotionRing*,Jam],[0]]};
-    {keep:[[itemDrill],[3],['{Energy:0}']]};
+    {keep:[[battery_bauble, battery_*_bauble],[0],['{Energy:0}']]};
+    {keep:[item,[_battery*,_tele_staff,_filling_wand,_growth_ring,_suction_ring,_water_removal_ring],[0],['{Energy:0}']]};
+    {keep:[[item_drill],[3],['{Energy:0}']]};
 	
     {keep-one:[[spawn_egg,*potion,*book,*arrow],[0]]};
 ]

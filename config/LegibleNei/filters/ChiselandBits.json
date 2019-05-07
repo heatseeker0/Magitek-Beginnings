@@ -1,5 +1,5 @@
 {
-chiselandbits:[
-	{keep-one:[[block_bit],[]]};
+ChiselsAndBits:[
+	{hide:[[block_bit],[]]};
 	]
 }
