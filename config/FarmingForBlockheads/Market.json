@@ -6,12 +6,12 @@
     "Natura Saplings": true,
     "Vanilla Flowers": false,
     "Natura Bushes": true,
-    "Vanilla Mushrooms": false,
+    "Vanilla Mushrooms": true,
     "Natura Nether Bushes": true,
     "Vanilla Saplings": true,
     "AgriCraft Seeds": false,
     "Bonemeal": true,
-    "Animal Eggs": false,
+    "Animal Eggs": true,
     "BiomesOPlenty Saplings": true,
     "BiomesOPlenty Sacred Oak Sapling": false
   },
@@ -27,7 +27,7 @@
     "Vanilla Saplings": "1*minecraft:emerald:0",
     "AgriCraft Seeds": "2*minecraft:emerald:0",
     "Bonemeal": "1*minecraft:emerald:0",
-    "Animal Eggs": "1*minecraft:emerald:0",
+    "Animal Eggs": "5*minecraft:emerald:0",
     "BiomesOPlenty Saplings": "1*minecraft:emerald:0",
     "BiomesOPlenty Sacred Oak Sapling": "1*minecraft:emerald:8"
   },
