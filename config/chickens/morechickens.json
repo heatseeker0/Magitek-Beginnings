@@ -417,5 +417,65 @@
     "Spawn Type": "NONE",
     "Parent 1": "chickens:bluechicken",
     "Parent 2": "morechickens:aluminumchicken"
+  },
+  "morechickens:amethystchicken": {
+    "Name": "amethystchicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "biomesoplenty:gem",
+    "Drop Item": "biomesoplenty:gem",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:ghastchicken",
+    "Parent 2": "chickens:purplechicken"
+  },
+  "morechickens:malachitechicken": {
+    "Name": "malachitechicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "biomesoplenty:gem:5",
+    "Drop Item": "biomesoplenty:gem:5",
+    "Spawn Type": "NONE",
+    "Parent 1": "morechickens:copperchicken",
+    "Parent 2": "chickens:coalchicken"
+  },
+  "morechickens:peridotchicken": {
+    "Name": "peridotchicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "biomesoplenty:gem:2",
+    "Drop Item": "biomesoplenty:gem:2",
+    "Spawn Type": "NONE",
+    "Parent 1": "morechickens:siliconchicken",
+    "Parent 2": "chickens:greenchicken"
+  },
+  "morechickens:rubychicken": {
+    "Name": "rubychicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "biomesoplenty:gem:1",
+    "Drop Item": "biomesoplenty:gem:1",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:redchicken",
+    "Parent 2": "morechickens:aluminumchicken"
+  },
+  "morechickens:tanzanitechicken": {
+    "Name": "tanzanitechicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "biomesoplenty:gem:4",
+    "Drop Item": "biomesoplenty:gem:4",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:quartzchicken",
+    "Parent 2": "chickens:purplechicken"
+  },
+  "morechickens:topazchicken": {
+    "Name": "topazchicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "biomesoplenty:gem:3",
+    "Drop Item": "biomesoplenty:gem:3",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:quartzchicken",
+    "Parent 2": "chickens:orangechicken"
   }
 }
